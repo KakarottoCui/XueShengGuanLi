@@ -13,5 +13,4 @@
 
 详询QQ：821898835，微信：egvh56ufy7hh，承接商业项目和毕设
 
-项目演示视频链接：http://www.dabo.fun/html/web/product/java/1376865935894212610.html
 
