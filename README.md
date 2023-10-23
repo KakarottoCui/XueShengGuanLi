@@ -2,6 +2,12 @@
 
 演示视频链接：https://www.zhihu.com/zvideo/1517087740252905472
 
+用到的技术：
+
+后端：JAVA语言、SpringMVC框架、MySQL数据库、maven依赖管理等；
+
+前端：Jsp页面、bootStrap框架等。
+
 成绩管理系统分为三个角色：管理员，老师，学生
 
 管理员：
