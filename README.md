@@ -1,6 +1,6 @@
 # 学生综合管理系统
 
-演示视频链接：https://www.zhihu.com/zvideo/1517087740252905472
+演示视频链接：https://www.bilibili.com/video/BV1vY4y1x7jz/
 
 用到的技术：
 
